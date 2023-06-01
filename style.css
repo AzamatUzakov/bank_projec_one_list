@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.contener {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.header {
+  width: 100%;
+  background-color: rgb(241, 241, 241);
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 100px;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 17px;
+  margin-left: 30px;
+}
+
+.email_block {
+  display: flex;
+  gap: 30px;
+}
+
+.email_block p {
+  font-size: 16px;
+}
+
+.top_body {
+  margin: 44px 100px;
+}
+
+.top_body h1 {
+  font-size: 43px;
+}
+
+.top_body p {
+  font-size: 18px;
+  color: #0047FF;
+  margin-top: 20px;
+}
+
+.top_body h4 {
+  font-size: 18px;
+  color: #0047FF;
+  margin-top: 20px;
+}
+img{
+ width: 282px;
+ height: 160px;
+margin-right:30px ;
+margin-top: 20px;
+}
+.visa h3{
+  font-size: 26px;
+  margin-top: 70px;
+}
+
+.body{
+  margin: 44px 100px;
+
+}
+table {
+  width: 1500px;
+  border-spacing: 20px;
+  margin-top: 20px;
+}
+
+table thead tr {
+  border-bottom: solid 1px #D8E2EC;
+}
+
+table thead th {
+  text-align: start;
+  color: #8E9AA7;
+}
+.body h3 {
+  font-size: 18px;
+  color: #0047FF;
+  margin-top: 20px;
+}
